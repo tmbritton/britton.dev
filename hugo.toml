@@ -1,0 +1,4 @@
+baseURL = 'https://britton.dev'
+languageCode = 'en-us'
+title = 'britton.dev'
+theme = 'PaperMod'
